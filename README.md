@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have way too many projects, so it may take me a while to get back to old ones. Usually I come back eventually.
+I have way too many projects, so it may take me a while to get back to old ones. ~~Usually I come back eventually.~~ If you want me to come back, better tell me. Otherwise, its *probably* abandoned lol
 
 Some things I'm currently interested in:
 + ...
