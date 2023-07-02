@@ -3,7 +3,7 @@
 I have way too many projects, so it may take me a while to get back to old ones. ~~Usually I come back eventually.~~ If you want me to come back, better tell me. Otherwise, its *probably* abandoned lol
 
 Some things I'm currently interested in:
-+ Apple's iMessage (https://jjtech.dev/reverse-engineering/imessage-overview/)
++ Apple's iMessage (https://jjtech.dev/reverse-engineering/imessage-overview/) (https://github.com/JJTech0130/pypush)
 + Apple's VisionOS simulator (https://github.com/JJTech0130/XRGyroControls)
 + N/Xreal Air (+ VisionOS?)
 + First Tech Challenge
